@@ -6,4 +6,4 @@ Esse é o meu primeiro repositório criado para o primeiro desafio do bootcamp D
 
 Estou realmente empolgada e animada com todo o conteúdo e prática desenvolvidos ao longo das aulas! Compartilhando meu desenvolvimento ao longo dessa jornada :rocket:
 
-Go Orange! :orange:
+Go Orange!!! :orange:
